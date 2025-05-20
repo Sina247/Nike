@@ -1,4 +1,4 @@
-# 🏀 Nike Landing Page – Sleek, Responsive, and Modern 🌐
+# 🏀 Nike Landing Page – Sleek, Responsive, and Modern
 
 Welcome to my **Nike-themed Landing Page** — a fully responsive, interactive, and modern web interface built to showcase high-end product design and front-end development skills.
 
